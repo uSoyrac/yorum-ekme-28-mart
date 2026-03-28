@@ -19,7 +19,7 @@ This means:
 """
 
 from flask import Flask, request, jsonify, render_template, send_file
-import pandas as pd, io, re, time, uuid, threading, traceback
+import pandas as pd, io, re, time, uuid, threading, traceback, random
 from datetime import datetime, date, timezone, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
@@ -100,8 +100,7 @@ def scrape_app(app_id, title, max_collect, date_from, job_id):
 
     COUNTRY_LANG = {
         'us': 'en', 'gb': 'en', 'au': 'en', 'ca': 'en',
-        'tr': 'tr', 'br': 'pt', 'de': 'de', 'fr': 'fr',
-        'jp': 'ja', 'in': 'en',
+        'in': 'en', 'nz': 'en', 'ie': 'en', 'za': 'en',
     }
     COUNTRIES = list(COUNTRY_LANG.keys())
 
@@ -208,6 +207,7 @@ def scrape_app(app_id, title, max_collect, date_from, job_id):
         if job_id in JOBS:
             JOBS[job_id]['prog'][app_id] = dict(fetched=len(rows), done=True)
 
+    random.shuffle(rows)
     print(f"[{app_id}] DONE: {len(rows)} collected (fetched {fetched_total} raw, "
           f"{len(seen_ids)} unique IDs across {len(COUNTRIES)} countries)")
     return rows
