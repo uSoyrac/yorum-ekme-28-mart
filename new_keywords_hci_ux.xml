@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keyword_analysis>
+  <sources>
+    <app name="Speak" id="com.selabs.speak" reviews_collected="2136" url="https://play.google.com/store/apps/details?id=com.selabs.speak"/>
+    <app name="Praktika" id="ai.praktika.android" reviews_collected="2050" url="https://play.google.com/store/apps/details?id=ai.praktika.android"/>
+    <app name="ELSA Speak" id="us.nobarriers.elsa" reviews_collected="1742" url="https://play.google.com/store/apps/details?id=us.nobarriers.elsa"/>
+    <app name="Duolingo" id="com.duolingo" reviews_collected="2110" url="https://play.google.com/store/apps/details?id=com.duolingo"/>
+    <app name="Babbel" id="com.babbel.mobile.android.en" reviews_collected="2078" url="https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en"/>
+    <app name="Busuu" id="com.busuu.android.enc" reviews_collected="2089" url="https://play.google.com/store/apps/details?id=com.busuu.android.enc"/>
+    <app name="Cambly" id="com.cambly.cambly" reviews_collected="57" url="https://play.google.com/store/apps/details?id=com.cambly.cambly"/>
+    <app name="Preply" id="com.preply" reviews_collected="881" url="https://play.google.com/store/apps/details?id=com.preply"/>
+    <app name="HelloTalk" id="com.hellotalk" reviews_collected="2011" url="https://play.google.com/store/apps/details?id=com.hellotalk"/>
+  </sources>
+  <keywords>
+    <keyword freq="48" source="curated">customer support</keyword>
+    <keyword freq="29" source="curated">speech recognition</keyword>
+    <keyword freq="24" source="curated">avatar</keyword>
+    <keyword freq="22" source="curated">boost</keyword>
+    <keyword freq="19" source="curated">icon</keyword>
+    <keyword freq="19" source="curated">user experience</keyword>
+    <keyword freq="19" source="curated">gems</keyword>
+    <keyword freq="18" source="curated">role play</keyword>
+    <keyword freq="17" source="curated">something went wrong</keyword>
+    <keyword freq="15" source="curated">streak freeze</keyword>
+    <keyword freq="15" source="curated">premium plan</keyword>
+    <keyword freq="14" source="curated">profile picture</keyword>
+    <keyword freq="13" source="curated">try again</keyword>
+    <keyword freq="11" source="curated">time limit</keyword>
+    <keyword freq="9" source="curated">pop up</keyword>
+    <keyword freq="9" source="curated">trial period</keyword>
+    <keyword freq="8" source="curated">subscription model</keyword>
+    <keyword freq="8" source="curated">placement test</keyword>
+    <keyword freq="7" source="curated">account creation</keyword>
+    <keyword freq="7" source="curated">password reset</keyword>
+    <keyword freq="6" source="curated">loading screen</keyword>
+    <keyword freq="6" source="curated">user interface</keyword>
+    <keyword freq="6" source="curated">coins</keyword>
+    <keyword freq="6" source="curated">currency</keyword>
+    <keyword freq="6" source="curated">landscape mode</keyword>
+    <keyword freq="6" source="curated">lesson structure</keyword>
+    <keyword freq="5" source="curated">search bar</keyword>
+    <keyword freq="5" source="curated">offline mode</keyword>
+    <keyword freq="5" source="curated">error message</keyword>
+    <keyword freq="5" source="curated">lifetime access</keyword>
+    <keyword freq="5" source="curated">help center</keyword>
+    <keyword freq="5" source="curated">privacy policy</keyword>
+    <keyword freq="2316" source="extracted">learning</keyword>
+    <keyword freq="1980" source="extracted">language</keyword>
+    <keyword freq="643" source="extracted">lesson</keyword>
+    <keyword freq="462" source="extracted">account</keyword>
+    <keyword freq="283" source="extracted">support</keyword>
+    <keyword freq="277" source="extracted">voice</keyword>
+    <keyword freq="251" source="extracted">learning app</keyword>
+    <keyword freq="235" source="extracted">started</keyword>
+    <keyword freq="217" source="extracted">app for learning</keyword>
+    <keyword freq="201" source="extracted">review</keyword>
+    <keyword freq="182" source="extracted">my account</keyword>
+    <keyword freq="168" source="extracted">annoying</keyword>
+    <keyword freq="166" source="extracted">getting</keyword>
+    <keyword freq="152" source="extracted">progress</keyword>
+    <keyword freq="139" source="extracted">feature</keyword>
+    <keyword freq="129" source="extracted">access</keyword>
+    <keyword freq="127" source="extracted">vocabulary</keyword>
+    <keyword freq="124" source="extracted">frustrating</keyword>
+    <keyword freq="124" source="extracted">learning languages</keyword>
+    <keyword freq="115" source="extracted">system</keyword>
+    <keyword freq="115" source="extracted">i'm learning</keyword>
+    <keyword freq="115" source="extracted">any language</keyword>
+    <keyword freq="112" source="extracted">the words</keyword>
+    <keyword freq="109" source="extracted">learning english</keyword>
+    <keyword freq="105" source="extracted">learning new</keyword>
+    <keyword freq="101" source="extracted">just started</keyword>
+    <keyword freq="97" source="extracted">learn new language</keyword>
+    <keyword freq="95" source="extracted">screen</keyword>
+    <keyword freq="92" source="extracted">learn and</keyword>
+    <keyword freq="89" source="extracted">response</keyword>
+    <keyword freq="89" source="extracted">to learn language</keyword>
+    <keyword freq="88" source="extracted">study</keyword>
+    <keyword freq="88" source="extracted">the world</keyword>
+    <keyword freq="87" source="extracted">words and</keyword>
+    <keyword freq="84" source="extracted">multiple</keyword>
+    <keyword freq="84" source="extracted">recognition</keyword>
+    <keyword freq="84" source="extracted">using the</keyword>
+    <keyword freq="84" source="extracted">for learning languages</keyword>
+    <keyword freq="83" source="extracted">languages and</keyword>
+    <keyword freq="79" source="extracted">profile</keyword>
+    <keyword freq="78" source="extracted">language app</keyword>
+    <keyword freq="77" source="extracted">and learn</keyword>
+    <keyword freq="75" source="extracted">of learning</keyword>
+    <keyword freq="73" source="extracted">for learning english</keyword>
+    <keyword freq="72" source="extracted">good for learning</keyword>
+    <keyword freq="70" source="extracted">message</keyword>
+    <keyword freq="70" source="extracted">native language</keyword>
+    <keyword freq="70" source="extracted">learning spanish</keyword>
+    <keyword freq="69" source="extracted">quality</keyword>
+    <keyword freq="68" source="extracted">learn the</keyword>
+    <keyword freq="67" source="extracted">first lesson</keyword>
+    <keyword freq="67" source="extracted">the premium</keyword>
+    <keyword freq="66" source="extracted">community</keyword>
+    <keyword freq="65" source="extracted">audio</keyword>
+    <keyword freq="65" source="extracted">to learn and</keyword>
+    <keyword freq="64" source="extracted">the lessons are</keyword>
+    <keyword freq="63" source="extracted">sentence</keyword>
+    <keyword freq="62" source="extracted">error</keyword>
+    <keyword freq="62" source="extracted">am learning</keyword>
+    <keyword freq="61" source="extracted">the learning</keyword>
+    <keyword freq="61" source="extracted">example</keyword>
+    <keyword freq="61" source="extracted">information</keyword>
+    <keyword freq="61" source="extracted">the tutor</keyword>
+    <keyword freq="61" source="extracted">learn any language</keyword>
+    <keyword freq="59" source="extracted">the money</keyword>
+    <keyword freq="59" source="extracted">lessons and</keyword>
+    <keyword freq="58" source="extracted">spanish and</keyword>
+    <keyword freq="58" source="extracted">and helpful</keyword>
+    <keyword freq="57" source="extracted">english and</keyword>
+    <keyword freq="56" source="extracted">other language</keyword>
+    <keyword freq="54" source="extracted">in english</keyword>
+    <keyword freq="54" source="extracted">friends and</keyword>
+    <keyword freq="52" source="extracted">speaker</keyword>
+    <keyword freq="52" source="extracted">language but</keyword>
+    <keyword freq="50" source="extracted">one lesson</keyword>
+    <keyword freq="49" source="extracted">another language</keyword>
+    <keyword freq="49" source="extracted">voice room</keyword>
+    <keyword freq="48" source="extracted">microphone</keyword>
+    <keyword freq="48" source="extracted">japanese and</keyword>
+    <keyword freq="48" source="extracted">using the app</keyword>
+    <keyword freq="47" source="extracted">best learning</keyword>
+    <keyword freq="47" source="extracted">language you</keyword>
+    <keyword freq="46" source="extracted">speaking and</keyword>
+    <keyword freq="46" source="extracted">the beginning</keyword>
+    <keyword freq="45" source="extracted">best language learning</keyword>
+    <keyword freq="44" source="extracted">the whole</keyword>
+    <keyword freq="44" source="extracted">my language</keyword>
+    <keyword freq="44" source="extracted">for learning new</keyword>
+    <keyword freq="43" source="extracted">explanation</keyword>
+    <keyword freq="43" source="extracted">words in</keyword>
+    <keyword freq="43" source="extracted">access to</keyword>
+    <keyword freq="43" source="extracted">the speaking</keyword>
+    <keyword freq="43" source="extracted">the free version</keyword>
+    <keyword freq="42" source="extracted">search</keyword>
+    <keyword freq="42" source="extracted">check</keyword>
+    <keyword freq="42" source="extracted">loading</keyword>
+    <keyword freq="42" source="extracted">learning japanese</keyword>
+    <keyword freq="42" source="extracted">duolingo and</keyword>
+    <keyword freq="42" source="extracted">for example</keyword>
+    <keyword freq="42" source="extracted">an account</keyword>
+    <keyword freq="42" source="extracted">my voice</keyword>
+    <keyword freq="41" source="extracted">the first lesson</keyword>
+    <keyword freq="41" source="extracted">helpful and</keyword>
+    <keyword freq="41" source="extracted">the problem</keyword>
+    <keyword freq="41" source="extracted">to learning</keyword>
+    <keyword freq="40" source="extracted">voice recognition</keyword>
+    <keyword freq="40" source="extracted">great learning</keyword>
+    <keyword freq="40" source="extracted">the price</keyword>
+    <keyword freq="40" source="extracted">to study</keyword>
+    <keyword freq="39" source="extracted">to learn the</keyword>
+    <keyword freq="38" source="extracted">for learning language</keyword>
+    <keyword freq="38" source="extracted">confidence</keyword>
+    <keyword freq="38" source="extracted">exchange</keyword>
+    <keyword freq="38" source="extracted">language apps</keyword>
+    <keyword freq="38" source="extracted">amazing and</keyword>
+    <keyword freq="38" source="extracted">the platform</keyword>
+    <keyword freq="37" source="extracted">the option</keyword>
+    <keyword freq="37" source="extracted">every lesson</keyword>
+    <keyword freq="37" source="extracted">waste of time</keyword>
+    <keyword freq="36" source="extracted">my learning</keyword>
+    <keyword freq="36" source="extracted">the right</keyword>
+    <keyword freq="36" source="extracted">the conversation</keyword>
+    <keyword freq="35" source="extracted">focus</keyword>
+    <keyword freq="35" source="extracted">language is</keyword>
+    <keyword freq="35" source="extracted">good learning</keyword>
+    <keyword freq="35" source="extracted">learning with</keyword>
+    <keyword freq="35" source="extracted">through the</keyword>
+    <keyword freq="35" source="extracted">the grammar</keyword>
+    <keyword freq="35" source="extracted">learning new languages</keyword>
+    <keyword freq="34" source="extracted">model</keyword>
+    <keyword freq="34" source="extracted">exercise</keyword>
+    <keyword freq="34" source="extracted">the issue</keyword>
+    <keyword freq="33" source="extracted">speak and</keyword>
+    <keyword freq="33" source="extracted">makes learning</keyword>
+    <keyword freq="32" source="extracted">social</keyword>
+    <keyword freq="32" source="extracted">mistake</keyword>
+    <keyword freq="32" source="extracted">share</keyword>
+    <keyword freq="32" source="extracted">enjoying the</keyword>
+    <keyword freq="32" source="extracted">learning french</keyword>
+    <keyword freq="32" source="extracted">learning apps</keyword>
+    <keyword freq="32" source="extracted">learning experience</keyword>
+    <keyword freq="32" source="extracted">around the</keyword>
+    <keyword freq="32" source="extracted">best learning app</keyword>
+    <keyword freq="31" source="extracted">speak the</keyword>
+    <keyword freq="31" source="extracted">in spanish</keyword>
+    <keyword freq="31" source="extracted">the basics</keyword>
+    <keyword freq="31" source="extracted">worth the</keyword>
+    <keyword freq="31" source="extracted">learning but</keyword>
+    <keyword freq="30" source="extracted">started using</keyword>
+    <keyword freq="30" source="extracted">english language</keyword>
+    <keyword freq="30" source="extracted">the languages</keyword>
+    <keyword freq="30" source="extracted">the application</keyword>
+    <keyword freq="30" source="extracted">recognition is</keyword>
+    <keyword freq="29" source="extracted">journey</keyword>
+    <keyword freq="29" source="extracted">choice</keyword>
+    <keyword freq="29" source="extracted">actually learning</keyword>
+    <keyword freq="29" source="extracted">in order</keyword>
+    <keyword freq="29" source="extracted">the second</keyword>
+    <keyword freq="29" source="extracted">practice and</keyword>
+    <keyword freq="29" source="extracted">english learning</keyword>
+    <keyword freq="29" source="extracted">support team</keyword>
+    <keyword freq="29" source="extracted">my profile</keyword>
+    <keyword freq="29" source="extracted">in my opinion</keyword>
+    <keyword freq="28" source="extracted">of the language</keyword>
+    <keyword freq="28" source="extracted">password</keyword>
+    <keyword freq="28" source="extracted">learning korean</keyword>
+    <keyword freq="28" source="extracted">and speaking</keyword>
+    <keyword freq="28" source="extracted">started but</keyword>
+    <keyword freq="28" source="extracted">to review</keyword>
+    <keyword freq="28" source="extracted">the content</keyword>
+    <keyword freq="28" source="extracted">new account</keyword>
+    <keyword freq="28" source="extracted">in order to</keyword>
+    <keyword freq="27" source="extracted">the screen</keyword>
+    <keyword freq="27" source="extracted">the best learning</keyword>
+    <keyword freq="27" source="extracted">multiple times</keyword>
+    <keyword freq="27" source="extracted">learning so</keyword>
+    <keyword freq="27" source="extracted">simple and</keyword>
+    <keyword freq="27" source="extracted">your language</keyword>
+    <keyword freq="27" source="extracted">your learning</keyword>
+    <keyword freq="27" source="extracted">enjoy the</keyword>
+    <keyword freq="27" source="extracted">money and</keyword>
+    <keyword freq="27" source="extracted">great for learning</keyword>
+    <keyword freq="26" source="extracted">of language</keyword>
+    <keyword freq="26" source="extracted">lesson is</keyword>
+    <keyword freq="26" source="extracted">learning german</keyword>
+    <keyword freq="26" source="extracted">user friendly</keyword>
+    <keyword freq="26" source="extracted">grammar and</keyword>
+    <keyword freq="26" source="extracted">my native language</keyword>
+    <keyword freq="26" source="extracted">the option to</keyword>
+    <keyword freq="26" source="extracted">around the world</keyword>
+    <keyword freq="25" source="extracted">the support</keyword>
+    <keyword freq="25" source="extracted">support and</keyword>
+    <keyword freq="25" source="extracted">my account and</keyword>
+    <keyword freq="25" source="extracted">trust</keyword>
+    <keyword freq="25" source="extracted">session</keyword>
+    <keyword freq="25" source="extracted">repetition</keyword>
+    <keyword freq="25" source="extracted">and grammar</keyword>
+    <keyword freq="25" source="extracted">interested in</keyword>
+    <keyword freq="25" source="extracted">useful and</keyword>
+    <keyword freq="25" source="extracted">different language</keyword>
+    <keyword freq="25" source="extracted">been learning</keyword>
+    <keyword freq="25" source="extracted">understand the</keyword>
+    <keyword freq="25" source="extracted">friendly and</keyword>
+    <keyword freq="25" source="extracted">language skills</keyword>
+    <keyword freq="25" source="extracted">the experience</keyword>
+    <keyword freq="25" source="extracted">next lesson</keyword>
+    <keyword freq="25" source="extracted">help me learn</keyword>
+    <keyword freq="25" source="extracted">just started but</keyword>
+    <keyword freq="25" source="extracted">the app itself</keyword>
+    <keyword freq="24" source="extracted">vocabulary and</keyword>
+    <keyword freq="24" source="extracted">started and</keyword>
+    <keyword freq="24" source="extracted">the account</keyword>
+    <keyword freq="24" source="extracted">learn the language</keyword>
+    <keyword freq="24" source="extracted">partner</keyword>
+    <keyword freq="24" source="extracted">im learning</keyword>
+    <keyword freq="24" source="extracted">the program</keyword>
+    <keyword freq="24" source="extracted">understand and</keyword>
+    <keyword freq="24" source="extracted">to access</keyword>
+    <keyword freq="24" source="extracted">the trial</keyword>
+    <keyword freq="24" source="extracted">no response</keyword>
+    <keyword freq="24" source="extracted">the payment</keyword>
+    <keyword freq="24" source="extracted">the latest</keyword>
+    <keyword freq="24" source="extracted">app for language</keyword>
+    <keyword freq="23" source="extracted">and helps</keyword>
+    <keyword freq="23" source="extracted">language for</keyword>
+    <keyword freq="23" source="extracted">learning to</keyword>
+    <keyword freq="23" source="extracted">are learning</keyword>
+    <keyword freq="23" source="extracted">german and</keyword>
+    <keyword freq="23" source="extracted">very frustrating</keyword>
+    <keyword freq="23" source="extracted">the amount</keyword>
+    <keyword freq="23" source="extracted">change the</keyword>
+    <keyword freq="23" source="extracted">the tutors</keyword>
+    <keyword freq="23" source="extracted">the customer</keyword>
+    <keyword freq="22" source="extracted">the vocabulary</keyword>
+    <keyword freq="22" source="extracted">language exchange</keyword>
+    <keyword freq="22" source="extracted">and speak</keyword>
+    <keyword freq="22" source="extracted">helpful in</keyword>
+    <keyword freq="22" source="extracted">in japanese</keyword>
+    <keyword freq="22" source="extracted">trial and</keyword>
+    <keyword freq="22" source="extracted">language it</keyword>
+    <keyword freq="22" source="extracted">level of</keyword>
+    <keyword freq="22" source="extracted">and making</keyword>
+    <keyword freq="22" source="extracted">language so</keyword>
+    <keyword freq="22" source="extracted">update the</keyword>
+    <keyword freq="22" source="extracted">and practice</keyword>
+    <keyword freq="22" source="extracted">to support</keyword>
+    <keyword freq="22" source="extracted">lesson it</keyword>
+    <keyword freq="22" source="extracted">the energy</keyword>
+    <keyword freq="22" source="extracted">voice rooms</keyword>
+    <keyword freq="22" source="extracted">of the lessons</keyword>
+    <keyword freq="21" source="extracted">the microphone</keyword>
+    <keyword freq="21" source="extracted">in language</keyword>
+    <keyword freq="21" source="extracted">have the language</keyword>
+    <keyword freq="21" source="extracted">speed</keyword>
+    <keyword freq="21" source="extracted">positive</keyword>
+    <keyword freq="21" source="extracted">privacy</keyword>
+    <keyword freq="21" source="extracted">free lesson</keyword>
+    <keyword freq="21" source="extracted">signed up</keyword>
+    <keyword freq="21" source="extracted">french and</keyword>
+    <keyword freq="21" source="extracted">learning tool</keyword>
+    <keyword freq="21" source="extracted">learning any</keyword>
+    <keyword freq="21" source="extracted">the teacher</keyword>
+    <keyword freq="21" source="extracted">focus on</keyword>
+    <keyword freq="21" source="extracted">account was</keyword>
+    <keyword freq="21" source="extracted">other language apps</keyword>
+    <keyword freq="21" source="extracted">the ai tutor</keyword>
+    <keyword freq="21" source="extracted">waste your time</keyword>
+    <keyword freq="20" source="extracted">the review</keyword>
+    <keyword freq="20" source="extracted">the quality</keyword>
+    <keyword freq="20" source="extracted">the language you</keyword>
+    <keyword freq="20" source="extracted">language learning apps</keyword>
+    <keyword freq="20" source="extracted">in the world</keyword>
+    <keyword freq="20" source="extracted">spanish in</keyword>
+    <keyword freq="20" source="extracted">and makes</keyword>
+    <keyword freq="20" source="extracted">language learners</keyword>
+    <keyword freq="20" source="extracted">language to</keyword>
+    <keyword freq="20" source="extracted">in french</keyword>
+    <keyword freq="20" source="extracted">social media</keyword>
+    <keyword freq="20" source="extracted">the future</keyword>
+    <keyword freq="20" source="extracted">and useful</keyword>
+    <keyword freq="20" source="extracted">the start</keyword>
+    <keyword freq="20" source="extracted">the correct</keyword>
+    <keyword freq="20" source="extracted">language with</keyword>
+    <keyword freq="20" source="extracted">deleted the</keyword>
+    <keyword freq="20" source="extracted">my lesson</keyword>
+    <keyword freq="20" source="extracted">the features</keyword>
+    <keyword freq="20" source="extracted">and improve</keyword>
+    <keyword freq="20" source="extracted">to understand and</keyword>
+    <keyword freq="19" source="extracted">language the</keyword>
+    <keyword freq="19" source="extracted">level and</keyword>
+    <keyword freq="19" source="extracted">the audio</keyword>
+    <keyword freq="19" source="extracted">the words and</keyword>
+    <keyword freq="19" source="extracted">speak the language</keyword>
+    <keyword freq="19" source="extracted">in the future</keyword>
+    <keyword freq="19" source="extracted">the next lesson</keyword>
+    <keyword freq="19" source="extracted">permission</keyword>
+    <keyword freq="19" source="extracted">blank</keyword>
+    <keyword freq="19" source="extracted">and gives</keyword>
+    <keyword freq="19" source="extracted">started to</keyword>
+    <keyword freq="19" source="extracted">fluent in</keyword>
+    <keyword freq="19" source="extracted">downloaded the</keyword>
+    <keyword freq="19" source="extracted">and engaging</keyword>
+    <keyword freq="19" source="extracted">during the</keyword>
+    <keyword freq="19" source="extracted">speak in</keyword>
+    <keyword freq="19" source="extracted">language from</keyword>
+    <keyword freq="19" source="extracted">learn in</keyword>
+    <keyword freq="19" source="extracted">quality of</keyword>
+    <keyword freq="19" source="extracted">learning is</keyword>
+    <keyword freq="19" source="extracted">the speech</keyword>
+    <keyword freq="19" source="extracted">do lesson</keyword>
+    <keyword freq="19" source="extracted">the course</keyword>
+    <keyword freq="19" source="extracted">your account</keyword>
+    <keyword freq="19" source="extracted">account is</keyword>
+    <keyword freq="19" source="extracted">so annoying</keyword>
+    <keyword freq="19" source="extracted">system is</keyword>
+    <keyword freq="19" source="extracted">the streak</keyword>
+    <keyword freq="19" source="extracted">great learning app</keyword>
+    <keyword freq="19" source="extracted">downloaded the app</keyword>
+    <keyword freq="19" source="extracted">and it helps</keyword>
+    <keyword freq="19" source="extracted">over the world</keyword>
+    <keyword freq="18" source="extracted">just started and</keyword>
+    <keyword freq="18" source="extracted">setup</keyword>
+    <keyword freq="18" source="extracted">memory</keyword>
+    <keyword freq="18" source="extracted">effort</keyword>
+    <keyword freq="18" source="extracted">the practice</keyword>
+    <keyword freq="18" source="extracted">the phone</keyword>
+    <keyword freq="18" source="extracted">love learning</keyword>
+    <keyword freq="18" source="extracted">language that</keyword>
+    <keyword freq="18" source="extracted">remove the</keyword>
+    <keyword freq="18" source="extracted">one language</keyword>
+    <keyword freq="18" source="extracted">the interface</keyword>
+    <keyword freq="18" source="extracted">and phrases</keyword>
+    <keyword freq="18" source="extracted">lessons in</keyword>
+    <keyword freq="18" source="extracted">account but</keyword>
+    <keyword freq="18" source="extracted">the update</keyword>
+    <keyword freq="18" source="extracted">the ability</keyword>
+    <keyword freq="18" source="extracted">feature is</keyword>
+    <keyword freq="18" source="extracted">chess and</keyword>
+    <keyword freq="18" source="extracted">just started using</keyword>
+    <keyword freq="18" source="extracted">learn english and</keyword>
+    <keyword freq="18" source="extracted">best language app</keyword>
+    <keyword freq="18" source="extracted">very helpful and</keyword>
+    <keyword freq="18" source="extracted">the amount of</keyword>
+    <keyword freq="17" source="extracted">the level</keyword>
+    <keyword freq="17" source="extracted">input</keyword>
+    <keyword freq="17" source="extracted">korean and</keyword>
+    <keyword freq="17" source="extracted">with learning</keyword>
+    <keyword freq="17" source="extracted">learning it</keyword>
+    <keyword freq="17" source="extracted">makes the</keyword>
+    <keyword freq="17" source="extracted">the answer</keyword>
+    <keyword freq="17" source="extracted">language want</keyword>
+    <keyword freq="17" source="extracted">the point</keyword>
+    <keyword freq="17" source="extracted">language i'm</keyword>
+    <keyword freq="17" source="extracted">german language</keyword>
+    <keyword freq="17" source="extracted">streak and</keyword>
+    <keyword freq="17" source="extracted">listening and</keyword>
+    <keyword freq="17" source="extracted">lesson but</keyword>
+    <keyword freq="17" source="extracted">the website</keyword>
+    <keyword freq="17" source="extracted">the sound</keyword>
+    <keyword freq="17" source="extracted">where the</keyword>
+    <keyword freq="17" source="extracted">cancel the</keyword>
+    <keyword freq="17" source="extracted">tutor and</keyword>
+    <keyword freq="17" source="extracted">my progress</keyword>
+    <keyword freq="17" source="extracted">support is</keyword>
+    <keyword freq="17" source="extracted">my review</keyword>
+    <keyword freq="17" source="extracted">learning platform</keyword>
+    <keyword freq="17" source="extracted">learn another language</keyword>
+    <keyword freq="17" source="extracted">language you want</keyword>
+    <keyword freq="17" source="extracted">the ability to</keyword>
+    <keyword freq="16" source="extracted">the lessons and</keyword>
+    <keyword freq="16" source="extracted">learning any language</keyword>
+    <keyword freq="16" source="extracted">for learning and</keyword>
+    <keyword freq="16" source="extracted">consistent</keyword>
+    <keyword freq="16" source="extracted">negative</keyword>
+    <keyword freq="16" source="extracted">performance</keyword>
+    <keyword freq="16" source="extracted">attention</keyword>
+    <keyword freq="16" source="extracted">and listening</keyword>
+    <keyword freq="16" source="extracted">and interactive</keyword>
+    <keyword freq="16" source="extracted">language wanted</keyword>
+    <keyword freq="16" source="extracted">learning more</keyword>
+    <keyword freq="16" source="extracted">each lesson</keyword>
+    <keyword freq="16" source="extracted">russian and</keyword>
+    <keyword freq="16" source="extracted">the app's</keyword>
+    <keyword freq="16" source="extracted">the spanish</keyword>
+    <keyword freq="16" source="extracted">you're learning</keyword>
+    <keyword freq="16" source="extracted">pronounce the</keyword>
+    <keyword freq="16" source="extracted">in speaking</keyword>
+    <keyword freq="16" source="extracted">the daily</keyword>
+    <keyword freq="16" source="extracted">delete the</keyword>
+    <keyword freq="16" source="extracted">enjoy learning</keyword>
+    <keyword freq="16" source="extracted">feature that</keyword>
+    <keyword freq="16" source="extracted">logged in</keyword>
+    <keyword freq="16" source="extracted">available in</keyword>
+    <keyword freq="16" source="extracted">learning lot</keyword>
+    <keyword freq="16" source="extracted">practice the</keyword>
+    <keyword freq="16" source="extracted">contacted support</keyword>
+    <keyword freq="16" source="extracted">changed the</keyword>
+    <keyword freq="16" source="extracted">the lifetime</keyword>
+    <keyword freq="16" source="extracted">phone and</keyword>
+    <keyword freq="16" source="extracted">the preply</keyword>
+    <keyword freq="16" source="extracted">good learning app</keyword>
+    <keyword freq="16" source="extracted">to speak the</keyword>
+    <keyword freq="16" source="extracted">worth the money</keyword>
+    <keyword freq="16" source="extracted">the only problem</keyword>
+    <keyword freq="16" source="extracted">and very helpful</keyword>
+    <keyword freq="16" source="extracted">the new update</keyword>
+    <keyword freq="16" source="extracted">duolingo is the</keyword>
+    <keyword freq="15" source="extracted">started learning</keyword>
+    <keyword freq="15" source="extracted">the quality of</keyword>
+    <keyword freq="15" source="extracted">format</keyword>
+    <keyword freq="15" source="extracted">count</keyword>
+    <keyword freq="15" source="extracted">setting</keyword>
+    <keyword freq="15" source="extracted">the actual</keyword>
+    <keyword freq="15" source="extracted">premium and</keyword>
+    <keyword freq="15" source="extracted">fun learning</keyword>
+    <keyword freq="15" source="extracted">interactive and</keyword>
+    <keyword freq="15" source="extracted">phrases and</keyword>
+    <keyword freq="15" source="extracted">learning how</keyword>
+    <keyword freq="15" source="extracted">this language</keyword>
+    <keyword freq="15" source="extracted">the video</keyword>
+    <keyword freq="15" source="extracted">signing up</keyword>
+    <keyword freq="15" source="extracted">today and</keyword>
+    <keyword freq="15" source="extracted">good language</keyword>
+    <keyword freq="15" source="extracted">sentences and</keyword>
+    <keyword freq="15" source="extracted">language this</keyword>
+    <keyword freq="15" source="extracted">lesson without</keyword>
+    <keyword freq="15" source="extracted">the reason</keyword>
+    <keyword freq="15" source="extracted">improve the</keyword>
+    <keyword freq="15" source="extracted">it started</keyword>
+    <keyword freq="15" source="extracted">languages in</keyword>
+    <keyword freq="15" source="extracted">the exercises</keyword>
+    <keyword freq="15" source="extracted">very annoying</keyword>
+    <keyword freq="15" source="extracted">month and</keyword>
+    <keyword freq="15" source="extracted">and amazing</keyword>
+    <keyword freq="15" source="extracted">in advance</keyword>
+    <keyword freq="15" source="extracted">really annoying</keyword>
+    <keyword freq="15" source="extracted">the service</keyword>
+    <keyword freq="15" source="extracted">the previous</keyword>
+    <keyword freq="15" source="extracted">you are learning</keyword>
+    <keyword freq="15" source="extracted">learning app ever</keyword>
+    <keyword freq="15" source="extracted">words and phrases</keyword>
+    <keyword freq="15" source="extracted">learning app but</keyword>
+    <keyword freq="15" source="extracted">way of learning</keyword>
+    <keyword freq="15" source="extracted">application for learning</keyword>
+    <keyword freq="15" source="extracted">for learning any</keyword>
+    <keyword freq="15" source="extracted">the last update</keyword>
+    <keyword freq="15" source="extracted">best for learning</keyword>
+    <keyword freq="14" source="extracted">lesson the</keyword>
+    <keyword freq="14" source="extracted">progress and</keyword>
+    <keyword freq="14" source="extracted">the feedback</keyword>
+    <keyword freq="14" source="extracted">frustrating and</keyword>
+    <keyword freq="14" source="extracted">learning japanese and</keyword>
+    <keyword freq="14" source="extracted">other language learning</keyword>
+    <keyword freq="14" source="extracted">the language want</keyword>
+    <keyword freq="14" source="extracted">and the lessons</keyword>
+    <keyword freq="14" source="extracted">voice recognition is</keyword>
+    <keyword freq="14" source="extracted">the voice room</keyword>
+    <keyword freq="14" source="extracted">duolingo in</keyword>
+    <keyword freq="14" source="extracted">lesson before</keyword>
+    <keyword freq="14" source="extracted">start learning</keyword>
+    <keyword freq="14" source="extracted">learning other</keyword>
+    <keyword freq="14" source="extracted">the moment</keyword>
+    <keyword freq="14" source="extracted">lesson to</keyword>
+    <keyword freq="14" source="extracted">interesting and</keyword>
+    <keyword freq="14" source="extracted">speaking the</keyword>
+    <keyword freq="14" source="extracted">without the</keyword>
+    <keyword freq="14" source="extracted">an error</keyword>
+    <keyword freq="14" source="extracted">languages the</keyword>
+    <keyword freq="14" source="extracted">foreign language</keyword>
+    <keyword freq="14" source="extracted">in duolingo</keyword>
+    <keyword freq="14" source="extracted">of lesson</keyword>
+    <keyword freq="14" source="extracted">tutors and</keyword>
+    <keyword freq="14" source="extracted">within the</keyword>
+    <keyword freq="14" source="extracted">is annoying</keyword>
+    <keyword freq="14" source="extracted">the exact</keyword>
+    <keyword freq="14" source="extracted">the month</keyword>
+    <keyword freq="14" source="extracted">the middle</keyword>
+    <keyword freq="14" source="extracted">their support</keyword>
+    <keyword freq="14" source="extracted">preply and</keyword>
+    <keyword freq="14" source="extracted">learn spanish and</keyword>
+    <keyword freq="14" source="extracted">i'm actually learning</keyword>
+    <keyword freq="14" source="extracted">very helpful in</keyword>
+    <keyword freq="14" source="extracted">learning how to</keyword>
+    <keyword freq="14" source="extracted">i've been learning</keyword>
+    <keyword freq="14" source="extracted">started using it</keyword>
+    <keyword freq="14" source="extracted">the problem is</keyword>
+    <keyword freq="14" source="extracted">learn languages and</keyword>
+    <keyword freq="14" source="extracted">very useful and</keyword>
+    <keyword freq="14" source="extracted">the latest update</keyword>
+    <keyword freq="14" source="extracted">after every lesson</keyword>
+    <keyword freq="14" source="extracted">my account was</keyword>
+    <keyword freq="14" source="extracted">create new account</keyword>
+    <keyword freq="13" source="extracted">the language and</keyword>
+    <keyword freq="13" source="extracted">the feature</keyword>
+    <keyword freq="13" source="extracted">annoying and</keyword>
+    <keyword freq="13" source="extracted">the system</keyword>
+    <keyword freq="13" source="extracted">in the beginning</keyword>
+    <keyword freq="13" source="extracted">mistakes and</keyword>
+    <keyword freq="13" source="extracted">language it's</keyword>
+    <keyword freq="13" source="extracted">that language</keyword>
+    <keyword freq="13" source="extracted">and understanding</keyword>
+    <keyword freq="13" source="extracted">and actually</keyword>
+    <keyword freq="13" source="extracted">and lessons</keyword>
+    <keyword freq="13" source="extracted">language options</keyword>
+    <keyword freq="13" source="extracted">course and</keyword>
+    <keyword freq="13" source="extracted">the wrong</keyword>
+    <keyword freq="13" source="extracted">arabic language</keyword>
+    <keyword freq="13" source="extracted">doing the</keyword>
+    <keyword freq="13" source="extracted">this review</keyword>
+    <keyword freq="13" source="extracted">nice learning</keyword>
+    <keyword freq="13" source="extracted">overall the</keyword>
+    <keyword freq="13" source="extracted">continue learning</keyword>
+    <keyword freq="13" source="extracted">as language</keyword>
+    <keyword freq="13" source="extracted">not learning</keyword>
+    <keyword freq="13" source="extracted">and everything</keyword>
+    <keyword freq="13" source="extracted">what's the</keyword>
+    <keyword freq="13" source="extracted">please help</keyword>
+    <keyword freq="13" source="extracted">account without</keyword>
+    <keyword freq="13" source="extracted">the entire</keyword>
+    <keyword freq="13" source="extracted">the refund</keyword>
+    <keyword freq="13" source="extracted">the class</keyword>
+    <keyword freq="13" source="extracted">lesson so</keyword>
+    <keyword freq="13" source="extracted">than learning</keyword>
+    <keyword freq="13" source="extracted">is amazing and</keyword>
+    <keyword freq="13" source="extracted">enjoying the app</keyword>
+    <keyword freq="13" source="extracted">any language you</keyword>
+    <keyword freq="13" source="extracted">the app works</keyword>
+    <keyword freq="13" source="extracted">the only reason</keyword>
+    <keyword freq="13" source="extracted">help you learn</keyword>
+    <keyword freq="13" source="extracted">my account is</keyword>
+    <keyword freq="13" source="extracted">at the beginning</keyword>
+    <keyword freq="13" source="extracted">the new version</keyword>
+    <keyword freq="13" source="extracted">for language learners</keyword>
+    <keyword freq="12" source="extracted">the progress</keyword>
+    <keyword freq="12" source="extracted">access the</keyword>
+    <keyword freq="12" source="extracted">the sentence</keyword>
+    <keyword freq="12" source="extracted">the second lesson</keyword>
+    <keyword freq="12" source="extracted">learning languages and</keyword>
+    <keyword freq="12" source="extracted">in the middle</keyword>
+    <keyword freq="12" source="extracted">language which</keyword>
+    <keyword freq="12" source="extracted">and learned</keyword>
+    <keyword freq="12" source="extracted">korean language</keyword>
+    <keyword freq="12" source="extracted">the green</keyword>
+    <keyword freq="12" source="extracted">learning italian</keyword>
+    <keyword freq="12" source="extracted">download the</keyword>
+    <keyword freq="12" source="extracted">while learning</keyword>
+    <keyword freq="12" source="extracted">and understand</keyword>
+    <keyword freq="12" source="extracted">in different</keyword>
+    <keyword freq="12" source="extracted">second lesson</keyword>
+    <keyword freq="12" source="extracted">the duolingo</keyword>
+    <keyword freq="12" source="extracted">and sentences</keyword>
+    <keyword freq="12" source="extracted">engaging and</keyword>
+    <keyword freq="12" source="extracted">wrong and</keyword>
+    <keyword freq="12" source="extracted">the server</keyword>
+    <keyword freq="12" source="extracted">every language</keyword>
+    <keyword freq="12" source="extracted">lesson was</keyword>
+    <keyword freq="12" source="extracted">the questions</keyword>
+    <keyword freq="12" source="extracted">lesson then</keyword>
+    <keyword freq="12" source="extracted">learning from</keyword>
+    <keyword freq="12" source="extracted">experience and</keyword>
+    <keyword freq="12" source="extracted">the teachers</keyword>
+    <keyword freq="12" source="extracted">account with</keyword>
+    <keyword freq="12" source="extracted">your lesson</keyword>
+    <keyword freq="12" source="extracted">uninstall and</keyword>
+    <keyword freq="12" source="extracted">progress is</keyword>
+    <keyword freq="12" source="extracted">portuguese and</keyword>
+    <keyword freq="12" source="extracted">i'm getting</keyword>
+    <keyword freq="12" source="extracted">my vocabulary</keyword>
+    <keyword freq="12" source="extracted">no explanation</keyword>
+    <keyword freq="12" source="extracted">and interesting</keyword>
+    <keyword freq="12" source="extracted">classes and</keyword>
+    <keyword freq="12" source="extracted">teachers and</keyword>
+    <keyword freq="12" source="extracted">rules and</keyword>
+    <keyword freq="12" source="extracted">the recent</keyword>
+    <keyword freq="12" source="extracted">and cannot</keyword>
+    <keyword freq="12" source="extracted">the current</keyword>
+    <keyword freq="12" source="extracted">to share</keyword>
+    <keyword freq="12" source="extracted">voice to</keyword>
+    <keyword freq="12" source="extracted">frustrating to</keyword>
+    <keyword freq="12" source="extracted">the student</keyword>
+    <keyword freq="12" source="extracted">the voiceroom</keyword>
+    <keyword freq="12" source="extracted">to speak and</keyword>
+    <keyword freq="12" source="extracted">learning other languages</keyword>
+    <keyword freq="12" source="extracted">english learning app</keyword>
+    <keyword freq="12" source="extracted">to continue learning</keyword>
+    <keyword freq="12" source="extracted">the content is</keyword>
+    <keyword freq="12" source="extracted">good and helpful</keyword>
+    <keyword freq="12" source="extracted">the middle of</keyword>
+    <keyword freq="12" source="extracted">deleted my account</keyword>
+    <keyword freq="12" source="extracted">the platform is</keyword>
+    <keyword freq="11" source="extracted">and support</keyword>
+    <keyword freq="11" source="extracted">in voice</keyword>
+    <keyword freq="11" source="extracted">the language wanted</keyword>
+    <keyword freq="11" source="extracted">new language and</keyword>
+    <keyword freq="11" source="extracted">for learning the</keyword>
+    <keyword freq="11" source="extracted">quality of the</keyword>
+    <keyword freq="11" source="extracted">saying the</keyword>
+    <keyword freq="11" source="extracted">conversations and</keyword>
+    <keyword freq="11" source="extracted">faster and</keyword>
+    <keyword freq="11" source="extracted">the chance</keyword>
+    <keyword freq="11" source="extracted">is learning</keyword>
+    <keyword freq="11" source="extracted">to progress</keyword>
+    <keyword freq="11" source="extracted">speak language</keyword>
+    <keyword freq="11" source="extracted">and words</keyword>
+    <keyword freq="11" source="extracted">the speak</keyword>
+    <keyword freq="11" source="extracted">unfortunately the</keyword>
+    <keyword freq="11" source="extracted">reason and</keyword>
+    <keyword freq="11" source="extracted">the english</keyword>
+    <keyword freq="11" source="extracted">learning process</keyword>
+    <keyword freq="11" source="extracted">app learning</keyword>
+    <keyword freq="11" source="extracted">the biggest</keyword>
+    <keyword freq="11" source="extracted">more language</keyword>
+    <keyword freq="11" source="extracted">currently learning</keyword>
+    <keyword freq="11" source="extracted">language at</keyword>
+    <keyword freq="11" source="extracted">experience the</keyword>
+    <keyword freq="11" source="extracted">the french</keyword>
+    <keyword freq="11" source="extracted">learning fun</keyword>
+    <keyword freq="11" source="extracted">the teaching</keyword>
+    <keyword freq="11" source="extracted">target language</keyword>
+    <keyword freq="11" source="extracted">the developers</keyword>
+    <keyword freq="11" source="extracted">your level</keyword>
+    <keyword freq="11" source="extracted">the reviews</keyword>
+    <keyword freq="11" source="extracted">the email</keyword>
+    <keyword freq="11" source="extracted">lesson with</keyword>
+    <keyword freq="11" source="extracted">to check</keyword>
+    <keyword freq="11" source="extracted">the material</keyword>
+    <keyword freq="11" source="extracted">structured and</keyword>
+    <keyword freq="11" source="extracted">and nothing</keyword>
+    <keyword freq="11" source="extracted">explanation of</keyword>
+    <keyword freq="11" source="extracted">in terms</keyword>
+    <keyword freq="11" source="extracted">the answers</keyword>
+    <keyword freq="11" source="extracted">my permission</keyword>
+    <keyword freq="11" source="extracted">language or</keyword>
+    <keyword freq="11" source="extracted">click the</keyword>
+    <keyword freq="11" source="extracted">world and</keyword>
+    <keyword freq="11" source="extracted">account it</keyword>
+    <keyword freq="11" source="extracted">and others</keyword>
+    <keyword freq="11" source="extracted">bring back</keyword>
+    <keyword freq="11" source="extracted">complete the</keyword>
+    <keyword freq="11" source="extracted">students and</keyword>
+    <keyword freq="11" source="extracted">feature to</keyword>
+    <keyword freq="11" source="extracted">choose the</keyword>
+    <keyword freq="11" source="extracted">appreciate the</keyword>
+    <keyword freq="11" source="extracted">account for</keyword>
+    <keyword freq="11" source="extracted">another account</keyword>
+    <keyword freq="11" source="extracted">terms and</keyword>
+    <keyword freq="11" source="extracted">using it and</keyword>
+    <keyword freq="11" source="extracted">learning so much</keyword>
+    <keyword freq="11" source="extracted">learn japanese and</keyword>
+    <keyword freq="11" source="extracted">to the point</keyword>
+    <keyword freq="11" source="extracted">learning languages but</keyword>
+    <keyword freq="11" source="extracted">delete the app</keyword>
+    <keyword freq="11" source="extracted">pronounce the words</keyword>
+    <keyword freq="11" source="extracted">speech recognition is</keyword>
+    <keyword freq="11" source="extracted">the subscription is</keyword>
+    <keyword freq="11" source="extracted">in terms of</keyword>
+    <keyword freq="11" source="extracted">signed up for</keyword>
+    <keyword freq="11" source="extracted">without my permission</keyword>
+    <keyword freq="11" source="extracted">the premium version</keyword>
+    <keyword freq="11" source="extracted">that my account</keyword>
+    <keyword freq="10" source="extracted">learning spanish and</keyword>
+    <keyword freq="10" source="extracted">the speech recognition</keyword>
+    <keyword freq="10" source="extracted">of the lesson</keyword>
+    <keyword freq="10" source="extracted">in learning languages</keyword>
+    <keyword freq="10" source="extracted">access to the</keyword>
+    <keyword freq="10" source="extracted">the world and</keyword>
+    <keyword freq="10" source="extracted">just learning</keyword>
+    <keyword freq="10" source="extracted">annoying but</keyword>
+    <keyword freq="10" source="extracted">in school</keyword>
+    <keyword freq="10" source="extracted">lesson you</keyword>
+    <keyword freq="10" source="extracted">learning for</keyword>
+    <keyword freq="10" source="extracted">the accent</keyword>
+    <keyword freq="10" source="extracted">and simple</keyword>
+    <keyword freq="10" source="extracted">arabic and</keyword>
+    <keyword freq="10" source="extracted">learning at</keyword>
+    <keyword freq="10" source="extracted">was learning</keyword>
+    <keyword freq="10" source="extracted">language you're</keyword>
+    <keyword freq="10" source="extracted">in korean</keyword>
+    <keyword freq="10" source="extracted">the process</keyword>
+    <keyword freq="10" source="extracted">writing and</keyword>
+    <keyword freq="10" source="extracted">patient and</keyword>
+    <keyword freq="10" source="extracted">conversation and</keyword>
+    <keyword freq="10" source="extracted">continue the</keyword>
+    <keyword freq="10" source="extracted">friends in</keyword>
+    <keyword freq="10" source="extracted">language when</keyword>
+    <keyword freq="10" source="extracted">support for</keyword>
+    <keyword freq="10" source="extracted">your progress</keyword>
+    <keyword freq="10" source="extracted">review is</keyword>
+    <keyword freq="10" source="extracted">options and</keyword>
+    <keyword freq="10" source="extracted">lessons the</keyword>
+    <keyword freq="10" source="extracted">support to</keyword>
+    <keyword freq="10" source="extracted">the rules</keyword>
+    <keyword freq="10" source="extracted">the bottom</keyword>
+    <keyword freq="10" source="extracted">anything and</keyword>
+    <keyword freq="10" source="extracted">especially in</keyword>
+    <keyword freq="10" source="extracted">and effective</keyword>
+    <keyword freq="10" source="extracted">the question</keyword>
+    <keyword freq="10" source="extracted">english in</keyword>
+    <keyword freq="10" source="extracted">trial lesson</keyword>
+    <keyword freq="10" source="extracted">exercises and</keyword>
+    <keyword freq="10" source="extracted">purchase the</keyword>
+    <keyword freq="10" source="extracted">in german</keyword>
+    <keyword freq="10" source="extracted">especially the</keyword>
+    <keyword freq="10" source="extracted">teacher and</keyword>
+    <keyword freq="10" source="extracted">refund and</keyword>
+    <keyword freq="10" source="extracted">close the</keyword>
+    <keyword freq="10" source="extracted">contacted the</keyword>
+    <keyword freq="10" source="extracted">removed the</keyword>
+    <keyword freq="10" source="extracted">the company</keyword>
+    <keyword freq="10" source="extracted">in languages</keyword>
+    <keyword freq="10" source="extracted">the letters</keyword>
+    <keyword freq="10" source="extracted">issues and</keyword>
+    <keyword freq="10" source="extracted">so frustrating</keyword>
+    <keyword freq="10" source="extracted">in general</keyword>
+    <keyword freq="10" source="extracted">search for</keyword>
+    <keyword freq="10" source="extracted">hindi language</keyword>
+    <keyword freq="10" source="extracted">the chess</keyword>
+    <keyword freq="10" source="extracted">and conditions</keyword>
+    <keyword freq="10" source="extracted">structure and</keyword>
+    <keyword freq="10" source="extracted">one account</keyword>
+    <keyword freq="10" source="extracted">language partners</keyword>
+    <keyword freq="10" source="extracted">speaking and listening</keyword>
+    <keyword freq="10" source="extracted">your native language</keyword>
+    <keyword freq="10" source="extracted">native language is</keyword>
+    <keyword freq="10" source="extracted">learning app i've</keyword>
+    <keyword freq="10" source="extracted">language app i've</keyword>
+    <keyword freq="10" source="extracted">of the words</keyword>
+    <keyword freq="10" source="extracted">to speak in</keyword>
+    <keyword freq="10" source="extracted">to learn in</keyword>
+    <keyword freq="10" source="extracted">helpful for learning</keyword>
+    <keyword freq="10" source="extracted">learning to speak</keyword>
+    <keyword freq="10" source="extracted">apps for learning</keyword>
+    <keyword freq="10" source="extracted">i'm learning spanish</keyword>
+    <keyword freq="10" source="extracted">instead of the</keyword>
+    <keyword freq="10" source="extracted">listening and speaking</keyword>
+    <keyword freq="10" source="extracted">for the premium</keyword>
+    <keyword freq="10" source="extracted">thanks for the</keyword>
+    <keyword freq="10" source="extracted">language wanted to</keyword>
+    <keyword freq="10" source="extracted">the recent update</keyword>
+    <keyword freq="10" source="extracted">happy with the</keyword>
+    <keyword freq="10" source="extracted">my subscription and</keyword>
+    <keyword freq="10" source="extracted">for learning but</keyword>
+    <keyword freq="10" source="extracted">terms and conditions</keyword>
+    <keyword freq="10" source="extracted">not worth the</keyword>
+    <keyword freq="10" source="extracted">and making friends</keyword>
+    <keyword freq="9" source="extracted">interested in learning</keyword>
+    <keyword freq="9" source="extracted">the language you're</keyword>
+    <keyword freq="9" source="extracted">and i'm learning</keyword>
+    <keyword freq="9" source="extracted">the user experience</keyword>
+    <keyword freq="9" source="extracted">language in this</keyword>
+    <keyword freq="9" source="extracted">the customer support</keyword>
+    <keyword freq="9" source="extracted">good language learning</keyword>
+    <keyword freq="9" source="extracted">for language exchange</keyword>
+    <keyword freq="9" source="extracted">the chance to</keyword>
+    <keyword freq="9" source="extracted">i've just started</keyword>
+    <keyword freq="9" source="extracted">i'm learning japanese</keyword>
+    <keyword freq="9" source="extracted">learning with this</keyword>
+    <keyword freq="9" source="extracted">download the app</keyword>
+    <keyword freq="9" source="extracted">learning app that</keyword>
+    <keyword freq="9" source="extracted">new words and</keyword>
+    <keyword freq="9" source="extracted">the paid version</keyword>
+    <keyword freq="9" source="extracted">back to duolingo</keyword>
+    <keyword freq="9" source="extracted">language want to</keyword>
+    <keyword freq="9" source="extracted">new language but</keyword>
+    <keyword freq="9" source="extracted">new words in</keyword>
+    <keyword freq="9" source="extracted">great learning tool</keyword>
+    <keyword freq="9" source="extracted">language is not</keyword>
+    <keyword freq="9" source="extracted">very user friendly</keyword>
+    <keyword freq="9" source="extracted">my language skills</keyword>
+    <keyword freq="9" source="extracted">not available in</keyword>
+    <keyword freq="9" source="extracted">and gives you</keyword>
+    <keyword freq="9" source="extracted">useful for learning</keyword>
+    <keyword freq="9" source="extracted">to delete the</keyword>
+    <keyword freq="9" source="extracted">for english learning</keyword>
+    <keyword freq="9" source="extracted">words and sentences</keyword>
+    <keyword freq="9" source="extracted">platform for learning</keyword>
+    <keyword freq="9" source="extracted">version of the</keyword>
+    <keyword freq="9" source="extracted">but the problem</keyword>
+    <keyword freq="9" source="extracted">delete my account</keyword>
+    <keyword freq="9" source="extracted">my account for</keyword>
+    <keyword freq="9" source="extracted">amount of time</keyword>
+    <keyword freq="9" source="extracted">it makes learning</keyword>
+    <keyword freq="9" source="extracted">to my account</keyword>
+    <keyword freq="9" source="extracted">and make friends</keyword>
+    <keyword freq="8" source="extracted">the lesson and</keyword>
+    <keyword freq="8" source="extracted">language you're learning</keyword>
+    <keyword freq="8" source="extracted">first lesson and</keyword>
+    <keyword freq="8" source="extracted">user friendly and</keyword>
+    <keyword freq="8" source="extracted">the support team</keyword>
+    <keyword freq="8" source="extracted">my language learning</keyword>
+    <keyword freq="8" source="extracted">friends and learning</keyword>
+    <keyword freq="8" source="extracted">time to learn</keyword>
+    <keyword freq="8" source="extracted">very good learning</keyword>
+    <keyword freq="8" source="extracted">to speak language</keyword>
+    <keyword freq="8" source="extracted">really enjoying the</keyword>
+    <keyword freq="8" source="extracted">is great learning</keyword>
+    <keyword freq="8" source="extracted">to follow and</keyword>
+    <keyword freq="8" source="extracted">on duolingo and</keyword>
+    <keyword freq="8" source="extracted">fun and engaging</keyword>
+    <keyword freq="8" source="extracted">am learning japanese</keyword>
+    <keyword freq="8" source="extracted">do one lesson</keyword>
+    <keyword freq="8" source="extracted">the correct answer</keyword>
+    <keyword freq="8" source="extracted">for learning to</keyword>
+    <keyword freq="8" source="extracted">app i'm learning</keyword>
+    <keyword freq="8" source="extracted">different languages and</keyword>
+    <keyword freq="8" source="extracted">simple and easy</keyword>
+    <keyword freq="8" source="extracted">been using the</keyword>
+    <keyword freq="8" source="extracted">have the option</keyword>
+    <keyword freq="8" source="extracted">from the beginning</keyword>
+    <keyword freq="8" source="extracted">cancel the subscription</keyword>
+    <keyword freq="8" source="extracted">learning app for</keyword>
+    <keyword freq="8" source="extracted">for learning other</keyword>
+    <keyword freq="8" source="extracted">the play store</keyword>
+    <keyword freq="8" source="extracted">my first lesson</keyword>
+    <keyword freq="8" source="extracted">please help me</keyword>
+    <keyword freq="8" source="extracted">of learning new</keyword>
+    <keyword freq="8" source="extracted">for the price</keyword>
+    <keyword freq="8" source="extracted">the app seems</keyword>
+    <keyword freq="8" source="extracted">the best platform</keyword>
+    <keyword freq="8" source="extracted">create an account</keyword>
+    <keyword freq="8" source="extracted">nice and helpful</keyword>
+    <keyword freq="8" source="extracted">the best application</keyword>
+    <keyword freq="8" source="extracted">for the subscription</keyword>
+    <keyword freq="8" source="extracted">to learning english</keyword>
+    <keyword freq="8" source="extracted">using the free</keyword>
+    <keyword freq="8" source="extracted">to understand the</keyword>
+    <keyword freq="8" source="extracted">of the features</keyword>
+    <keyword freq="8" source="extracted">babbel is the</keyword>
+    <keyword freq="8" source="extracted">the app keeps</keyword>
+    <keyword freq="8" source="extracted">blocked my account</keyword>
+    <keyword freq="8" source="extracted">new friends and</keyword>
+    <keyword freq="8" source="extracted">in this application</keyword>
+  </keywords>
+</keyword_analysis>

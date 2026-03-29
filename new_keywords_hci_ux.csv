@@ -1,0 +1,878 @@
+"=== KAYNAK UYGULAMALAR (Son 12 Ay, Google Play) ==="
+Uygulama Adı,App ID,Google Play Linki,Toplanan Yorum Sayısı
+Speak,com.selabs.speak,https://play.google.com/store/apps/details?id=com.selabs.speak,2136
+Praktika,ai.praktika.android,https://play.google.com/store/apps/details?id=ai.praktika.android,2050
+ELSA Speak,us.nobarriers.elsa,https://play.google.com/store/apps/details?id=us.nobarriers.elsa,1742
+Duolingo,com.duolingo,https://play.google.com/store/apps/details?id=com.duolingo,2110
+Babbel,com.babbel.mobile.android.en,https://play.google.com/store/apps/details?id=com.babbel.mobile.android.en,2078
+Busuu,com.busuu.android.enc,https://play.google.com/store/apps/details?id=com.busuu.android.enc,2089
+Cambly,com.cambly.cambly,https://play.google.com/store/apps/details?id=com.cambly.cambly,57
+Preply,com.preply,https://play.google.com/store/apps/details?id=com.preply,881
+HelloTalk,com.hellotalk,https://play.google.com/store/apps/details?id=com.hellotalk,2011
+
+=== YENİ HCI/UX ANAHTAR KELİMELER ===
+keyword,frequency_in_reviews,source
+customer support,48,curated
+speech recognition,29,curated
+avatar,24,curated
+boost,22,curated
+icon,19,curated
+user experience,19,curated
+gems,19,curated
+role play,18,curated
+something went wrong,17,curated
+streak freeze,15,curated
+premium plan,15,curated
+profile picture,14,curated
+try again,13,curated
+time limit,11,curated
+pop up,9,curated
+trial period,9,curated
+subscription model,8,curated
+placement test,8,curated
+account creation,7,curated
+password reset,7,curated
+loading screen,6,curated
+user interface,6,curated
+coins,6,curated
+currency,6,curated
+landscape mode,6,curated
+lesson structure,6,curated
+search bar,5,curated
+offline mode,5,curated
+error message,5,curated
+lifetime access,5,curated
+help center,5,curated
+privacy policy,5,curated
+learning,2316,extracted
+language,1980,extracted
+lesson,643,extracted
+account,462,extracted
+support,283,extracted
+voice,277,extracted
+learning app,251,extracted
+started,235,extracted
+app for learning,217,extracted
+review,201,extracted
+my account,182,extracted
+annoying,168,extracted
+getting,166,extracted
+progress,152,extracted
+feature,139,extracted
+access,129,extracted
+vocabulary,127,extracted
+frustrating,124,extracted
+learning languages,124,extracted
+system,115,extracted
+i'm learning,115,extracted
+any language,115,extracted
+the words,112,extracted
+learning english,109,extracted
+learning new,105,extracted
+just started,101,extracted
+learn new language,97,extracted
+screen,95,extracted
+learn and,92,extracted
+response,89,extracted
+to learn language,89,extracted
+study,88,extracted
+the world,88,extracted
+words and,87,extracted
+multiple,84,extracted
+recognition,84,extracted
+using the,84,extracted
+for learning languages,84,extracted
+languages and,83,extracted
+profile,79,extracted
+language app,78,extracted
+and learn,77,extracted
+of learning,75,extracted
+for learning english,73,extracted
+good for learning,72,extracted
+message,70,extracted
+native language,70,extracted
+learning spanish,70,extracted
+quality,69,extracted
+learn the,68,extracted
+first lesson,67,extracted
+the premium,67,extracted
+community,66,extracted
+audio,65,extracted
+to learn and,65,extracted
+the lessons are,64,extracted
+sentence,63,extracted
+error,62,extracted
+am learning,62,extracted
+the learning,61,extracted
+example,61,extracted
+information,61,extracted
+the tutor,61,extracted
+learn any language,61,extracted
+the money,59,extracted
+lessons and,59,extracted
+spanish and,58,extracted
+and helpful,58,extracted
+english and,57,extracted
+other language,56,extracted
+in english,54,extracted
+friends and,54,extracted
+speaker,52,extracted
+language but,52,extracted
+one lesson,50,extracted
+another language,49,extracted
+voice room,49,extracted
+microphone,48,extracted
+japanese and,48,extracted
+using the app,48,extracted
+best learning,47,extracted
+language you,47,extracted
+speaking and,46,extracted
+the beginning,46,extracted
+best language learning,45,extracted
+the whole,44,extracted
+my language,44,extracted
+for learning new,44,extracted
+explanation,43,extracted
+words in,43,extracted
+access to,43,extracted
+the speaking,43,extracted
+the free version,43,extracted
+search,42,extracted
+check,42,extracted
+loading,42,extracted
+learning japanese,42,extracted
+duolingo and,42,extracted
+for example,42,extracted
+an account,42,extracted
+my voice,42,extracted
+the first lesson,41,extracted
+helpful and,41,extracted
+the problem,41,extracted
+to learning,41,extracted
+voice recognition,40,extracted
+great learning,40,extracted
+the price,40,extracted
+to study,40,extracted
+to learn the,39,extracted
+for learning language,38,extracted
+confidence,38,extracted
+exchange,38,extracted
+language apps,38,extracted
+amazing and,38,extracted
+the platform,38,extracted
+the option,37,extracted
+every lesson,37,extracted
+waste of time,37,extracted
+my learning,36,extracted
+the right,36,extracted
+the conversation,36,extracted
+focus,35,extracted
+language is,35,extracted
+good learning,35,extracted
+learning with,35,extracted
+through the,35,extracted
+the grammar,35,extracted
+learning new languages,35,extracted
+model,34,extracted
+exercise,34,extracted
+the issue,34,extracted
+speak and,33,extracted
+makes learning,33,extracted
+social,32,extracted
+mistake,32,extracted
+share,32,extracted
+enjoying the,32,extracted
+learning french,32,extracted
+learning apps,32,extracted
+learning experience,32,extracted
+around the,32,extracted
+best learning app,32,extracted
+speak the,31,extracted
+in spanish,31,extracted
+the basics,31,extracted
+worth the,31,extracted
+learning but,31,extracted
+started using,30,extracted
+english language,30,extracted
+the languages,30,extracted
+the application,30,extracted
+recognition is,30,extracted
+journey,29,extracted
+choice,29,extracted
+actually learning,29,extracted
+in order,29,extracted
+the second,29,extracted
+practice and,29,extracted
+english learning,29,extracted
+support team,29,extracted
+my profile,29,extracted
+in my opinion,29,extracted
+of the language,28,extracted
+password,28,extracted
+learning korean,28,extracted
+and speaking,28,extracted
+started but,28,extracted
+to review,28,extracted
+the content,28,extracted
+new account,28,extracted
+in order to,28,extracted
+the screen,27,extracted
+the best learning,27,extracted
+multiple times,27,extracted
+learning so,27,extracted
+simple and,27,extracted
+your language,27,extracted
+your learning,27,extracted
+enjoy the,27,extracted
+money and,27,extracted
+great for learning,27,extracted
+of language,26,extracted
+lesson is,26,extracted
+learning german,26,extracted
+user friendly,26,extracted
+grammar and,26,extracted
+my native language,26,extracted
+the option to,26,extracted
+around the world,26,extracted
+the support,25,extracted
+support and,25,extracted
+my account and,25,extracted
+trust,25,extracted
+session,25,extracted
+repetition,25,extracted
+and grammar,25,extracted
+interested in,25,extracted
+useful and,25,extracted
+different language,25,extracted
+been learning,25,extracted
+understand the,25,extracted
+friendly and,25,extracted
+language skills,25,extracted
+the experience,25,extracted
+next lesson,25,extracted
+help me learn,25,extracted
+just started but,25,extracted
+the app itself,25,extracted
+vocabulary and,24,extracted
+started and,24,extracted
+the account,24,extracted
+learn the language,24,extracted
+partner,24,extracted
+im learning,24,extracted
+the program,24,extracted
+understand and,24,extracted
+to access,24,extracted
+the trial,24,extracted
+no response,24,extracted
+the payment,24,extracted
+the latest,24,extracted
+app for language,24,extracted
+and helps,23,extracted
+language for,23,extracted
+learning to,23,extracted
+are learning,23,extracted
+german and,23,extracted
+very frustrating,23,extracted
+the amount,23,extracted
+change the,23,extracted
+the tutors,23,extracted
+the customer,23,extracted
+the vocabulary,22,extracted
+language exchange,22,extracted
+and speak,22,extracted
+helpful in,22,extracted
+in japanese,22,extracted
+trial and,22,extracted
+language it,22,extracted
+level of,22,extracted
+and making,22,extracted
+language so,22,extracted
+update the,22,extracted
+and practice,22,extracted
+to support,22,extracted
+lesson it,22,extracted
+the energy,22,extracted
+voice rooms,22,extracted
+of the lessons,22,extracted
+the microphone,21,extracted
+in language,21,extracted
+have the language,21,extracted
+speed,21,extracted
+positive,21,extracted
+privacy,21,extracted
+free lesson,21,extracted
+signed up,21,extracted
+french and,21,extracted
+learning tool,21,extracted
+learning any,21,extracted
+the teacher,21,extracted
+focus on,21,extracted
+account was,21,extracted
+other language apps,21,extracted
+the ai tutor,21,extracted
+waste your time,21,extracted
+the review,20,extracted
+the quality,20,extracted
+the language you,20,extracted
+language learning apps,20,extracted
+in the world,20,extracted
+spanish in,20,extracted
+and makes,20,extracted
+language learners,20,extracted
+language to,20,extracted
+in french,20,extracted
+social media,20,extracted
+the future,20,extracted
+and useful,20,extracted
+the start,20,extracted
+the correct,20,extracted
+language with,20,extracted
+deleted the,20,extracted
+my lesson,20,extracted
+the features,20,extracted
+and improve,20,extracted
+to understand and,20,extracted
+language the,19,extracted
+level and,19,extracted
+the audio,19,extracted
+the words and,19,extracted
+speak the language,19,extracted
+in the future,19,extracted
+the next lesson,19,extracted
+permission,19,extracted
+blank,19,extracted
+and gives,19,extracted
+started to,19,extracted
+fluent in,19,extracted
+downloaded the,19,extracted
+and engaging,19,extracted
+during the,19,extracted
+speak in,19,extracted
+language from,19,extracted
+learn in,19,extracted
+quality of,19,extracted
+learning is,19,extracted
+the speech,19,extracted
+do lesson,19,extracted
+the course,19,extracted
+your account,19,extracted
+account is,19,extracted
+so annoying,19,extracted
+system is,19,extracted
+the streak,19,extracted
+great learning app,19,extracted
+downloaded the app,19,extracted
+and it helps,19,extracted
+over the world,19,extracted
+just started and,18,extracted
+setup,18,extracted
+memory,18,extracted
+effort,18,extracted
+the practice,18,extracted
+the phone,18,extracted
+love learning,18,extracted
+language that,18,extracted
+remove the,18,extracted
+one language,18,extracted
+the interface,18,extracted
+and phrases,18,extracted
+lessons in,18,extracted
+account but,18,extracted
+the update,18,extracted
+the ability,18,extracted
+feature is,18,extracted
+chess and,18,extracted
+just started using,18,extracted
+learn english and,18,extracted
+best language app,18,extracted
+very helpful and,18,extracted
+the amount of,18,extracted
+the level,17,extracted
+input,17,extracted
+korean and,17,extracted
+with learning,17,extracted
+learning it,17,extracted
+makes the,17,extracted
+the answer,17,extracted
+language want,17,extracted
+the point,17,extracted
+language i'm,17,extracted
+german language,17,extracted
+streak and,17,extracted
+listening and,17,extracted
+lesson but,17,extracted
+the website,17,extracted
+the sound,17,extracted
+where the,17,extracted
+cancel the,17,extracted
+tutor and,17,extracted
+my progress,17,extracted
+support is,17,extracted
+my review,17,extracted
+learning platform,17,extracted
+learn another language,17,extracted
+language you want,17,extracted
+the ability to,17,extracted
+the lessons and,16,extracted
+learning any language,16,extracted
+for learning and,16,extracted
+consistent,16,extracted
+negative,16,extracted
+performance,16,extracted
+attention,16,extracted
+and listening,16,extracted
+and interactive,16,extracted
+language wanted,16,extracted
+learning more,16,extracted
+each lesson,16,extracted
+russian and,16,extracted
+the app's,16,extracted
+the spanish,16,extracted
+you're learning,16,extracted
+pronounce the,16,extracted
+in speaking,16,extracted
+the daily,16,extracted
+delete the,16,extracted
+enjoy learning,16,extracted
+feature that,16,extracted
+logged in,16,extracted
+available in,16,extracted
+learning lot,16,extracted
+practice the,16,extracted
+contacted support,16,extracted
+changed the,16,extracted
+the lifetime,16,extracted
+phone and,16,extracted
+the preply,16,extracted
+good learning app,16,extracted
+to speak the,16,extracted
+worth the money,16,extracted
+the only problem,16,extracted
+and very helpful,16,extracted
+the new update,16,extracted
+duolingo is the,16,extracted
+started learning,15,extracted
+the quality of,15,extracted
+format,15,extracted
+count,15,extracted
+setting,15,extracted
+the actual,15,extracted
+premium and,15,extracted
+fun learning,15,extracted
+interactive and,15,extracted
+phrases and,15,extracted
+learning how,15,extracted
+this language,15,extracted
+the video,15,extracted
+signing up,15,extracted
+today and,15,extracted
+good language,15,extracted
+sentences and,15,extracted
+language this,15,extracted
+lesson without,15,extracted
+the reason,15,extracted
+improve the,15,extracted
+it started,15,extracted
+languages in,15,extracted
+the exercises,15,extracted
+very annoying,15,extracted
+month and,15,extracted
+and amazing,15,extracted
+in advance,15,extracted
+really annoying,15,extracted
+the service,15,extracted
+the previous,15,extracted
+you are learning,15,extracted
+learning app ever,15,extracted
+words and phrases,15,extracted
+learning app but,15,extracted
+way of learning,15,extracted
+application for learning,15,extracted
+for learning any,15,extracted
+the last update,15,extracted
+best for learning,15,extracted
+lesson the,14,extracted
+progress and,14,extracted
+the feedback,14,extracted
+frustrating and,14,extracted
+learning japanese and,14,extracted
+other language learning,14,extracted
+the language want,14,extracted
+and the lessons,14,extracted
+voice recognition is,14,extracted
+the voice room,14,extracted
+duolingo in,14,extracted
+lesson before,14,extracted
+start learning,14,extracted
+learning other,14,extracted
+the moment,14,extracted
+lesson to,14,extracted
+interesting and,14,extracted
+speaking the,14,extracted
+without the,14,extracted
+an error,14,extracted
+languages the,14,extracted
+foreign language,14,extracted
+in duolingo,14,extracted
+of lesson,14,extracted
+tutors and,14,extracted
+within the,14,extracted
+is annoying,14,extracted
+the exact,14,extracted
+the month,14,extracted
+the middle,14,extracted
+their support,14,extracted
+preply and,14,extracted
+learn spanish and,14,extracted
+i'm actually learning,14,extracted
+very helpful in,14,extracted
+learning how to,14,extracted
+i've been learning,14,extracted
+started using it,14,extracted
+the problem is,14,extracted
+learn languages and,14,extracted
+very useful and,14,extracted
+the latest update,14,extracted
+after every lesson,14,extracted
+my account was,14,extracted
+create new account,14,extracted
+the language and,13,extracted
+the feature,13,extracted
+annoying and,13,extracted
+the system,13,extracted
+in the beginning,13,extracted
+mistakes and,13,extracted
+language it's,13,extracted
+that language,13,extracted
+and understanding,13,extracted
+and actually,13,extracted
+and lessons,13,extracted
+language options,13,extracted
+course and,13,extracted
+the wrong,13,extracted
+arabic language,13,extracted
+doing the,13,extracted
+this review,13,extracted
+nice learning,13,extracted
+overall the,13,extracted
+continue learning,13,extracted
+as language,13,extracted
+not learning,13,extracted
+and everything,13,extracted
+what's the,13,extracted
+please help,13,extracted
+account without,13,extracted
+the entire,13,extracted
+the refund,13,extracted
+the class,13,extracted
+lesson so,13,extracted
+than learning,13,extracted
+is amazing and,13,extracted
+enjoying the app,13,extracted
+any language you,13,extracted
+the app works,13,extracted
+the only reason,13,extracted
+help you learn,13,extracted
+my account is,13,extracted
+at the beginning,13,extracted
+the new version,13,extracted
+for language learners,13,extracted
+the progress,12,extracted
+access the,12,extracted
+the sentence,12,extracted
+the second lesson,12,extracted
+learning languages and,12,extracted
+in the middle,12,extracted
+language which,12,extracted
+and learned,12,extracted
+korean language,12,extracted
+the green,12,extracted
+learning italian,12,extracted
+download the,12,extracted
+while learning,12,extracted
+and understand,12,extracted
+in different,12,extracted
+second lesson,12,extracted
+the duolingo,12,extracted
+and sentences,12,extracted
+engaging and,12,extracted
+wrong and,12,extracted
+the server,12,extracted
+every language,12,extracted
+lesson was,12,extracted
+the questions,12,extracted
+lesson then,12,extracted
+learning from,12,extracted
+experience and,12,extracted
+the teachers,12,extracted
+account with,12,extracted
+your lesson,12,extracted
+uninstall and,12,extracted
+progress is,12,extracted
+portuguese and,12,extracted
+i'm getting,12,extracted
+my vocabulary,12,extracted
+no explanation,12,extracted
+and interesting,12,extracted
+classes and,12,extracted
+teachers and,12,extracted
+rules and,12,extracted
+the recent,12,extracted
+and cannot,12,extracted
+the current,12,extracted
+to share,12,extracted
+voice to,12,extracted
+frustrating to,12,extracted
+the student,12,extracted
+the voiceroom,12,extracted
+to speak and,12,extracted
+learning other languages,12,extracted
+english learning app,12,extracted
+to continue learning,12,extracted
+the content is,12,extracted
+good and helpful,12,extracted
+the middle of,12,extracted
+deleted my account,12,extracted
+the platform is,12,extracted
+and support,11,extracted
+in voice,11,extracted
+the language wanted,11,extracted
+new language and,11,extracted
+for learning the,11,extracted
+quality of the,11,extracted
+saying the,11,extracted
+conversations and,11,extracted
+faster and,11,extracted
+the chance,11,extracted
+is learning,11,extracted
+to progress,11,extracted
+speak language,11,extracted
+and words,11,extracted
+the speak,11,extracted
+unfortunately the,11,extracted
+reason and,11,extracted
+the english,11,extracted
+learning process,11,extracted
+app learning,11,extracted
+the biggest,11,extracted
+more language,11,extracted
+currently learning,11,extracted
+language at,11,extracted
+experience the,11,extracted
+the french,11,extracted
+learning fun,11,extracted
+the teaching,11,extracted
+target language,11,extracted
+the developers,11,extracted
+your level,11,extracted
+the reviews,11,extracted
+the email,11,extracted
+lesson with,11,extracted
+to check,11,extracted
+the material,11,extracted
+structured and,11,extracted
+and nothing,11,extracted
+explanation of,11,extracted
+in terms,11,extracted
+the answers,11,extracted
+my permission,11,extracted
+language or,11,extracted
+click the,11,extracted
+world and,11,extracted
+account it,11,extracted
+and others,11,extracted
+bring back,11,extracted
+complete the,11,extracted
+students and,11,extracted
+feature to,11,extracted
+choose the,11,extracted
+appreciate the,11,extracted
+account for,11,extracted
+another account,11,extracted
+terms and,11,extracted
+using it and,11,extracted
+learning so much,11,extracted
+learn japanese and,11,extracted
+to the point,11,extracted
+learning languages but,11,extracted
+delete the app,11,extracted
+pronounce the words,11,extracted
+speech recognition is,11,extracted
+the subscription is,11,extracted
+in terms of,11,extracted
+signed up for,11,extracted
+without my permission,11,extracted
+the premium version,11,extracted
+that my account,11,extracted
+learning spanish and,10,extracted
+the speech recognition,10,extracted
+of the lesson,10,extracted
+in learning languages,10,extracted
+access to the,10,extracted
+the world and,10,extracted
+just learning,10,extracted
+annoying but,10,extracted
+in school,10,extracted
+lesson you,10,extracted
+learning for,10,extracted
+the accent,10,extracted
+and simple,10,extracted
+arabic and,10,extracted
+learning at,10,extracted
+was learning,10,extracted
+language you're,10,extracted
+in korean,10,extracted
+the process,10,extracted
+writing and,10,extracted
+patient and,10,extracted
+conversation and,10,extracted
+continue the,10,extracted
+friends in,10,extracted
+language when,10,extracted
+support for,10,extracted
+your progress,10,extracted
+review is,10,extracted
+options and,10,extracted
+lessons the,10,extracted
+support to,10,extracted
+the rules,10,extracted
+the bottom,10,extracted
+anything and,10,extracted
+especially in,10,extracted
+and effective,10,extracted
+the question,10,extracted
+english in,10,extracted
+trial lesson,10,extracted
+exercises and,10,extracted
+purchase the,10,extracted
+in german,10,extracted
+especially the,10,extracted
+teacher and,10,extracted
+refund and,10,extracted
+close the,10,extracted
+contacted the,10,extracted
+removed the,10,extracted
+the company,10,extracted
+in languages,10,extracted
+the letters,10,extracted
+issues and,10,extracted
+so frustrating,10,extracted
+in general,10,extracted
+search for,10,extracted
+hindi language,10,extracted
+the chess,10,extracted
+and conditions,10,extracted
+structure and,10,extracted
+one account,10,extracted
+language partners,10,extracted
+speaking and listening,10,extracted
+your native language,10,extracted
+native language is,10,extracted
+learning app i've,10,extracted
+language app i've,10,extracted
+of the words,10,extracted
+to speak in,10,extracted
+to learn in,10,extracted
+helpful for learning,10,extracted
+learning to speak,10,extracted
+apps for learning,10,extracted
+i'm learning spanish,10,extracted
+instead of the,10,extracted
+listening and speaking,10,extracted
+for the premium,10,extracted
+thanks for the,10,extracted
+language wanted to,10,extracted
+the recent update,10,extracted
+happy with the,10,extracted
+my subscription and,10,extracted
+for learning but,10,extracted
+terms and conditions,10,extracted
+not worth the,10,extracted
+and making friends,10,extracted
+interested in learning,9,extracted
+the language you're,9,extracted
+and i'm learning,9,extracted
+the user experience,9,extracted
+language in this,9,extracted
+the customer support,9,extracted
+good language learning,9,extracted
+for language exchange,9,extracted
+the chance to,9,extracted
+i've just started,9,extracted
+i'm learning japanese,9,extracted
+learning with this,9,extracted
+download the app,9,extracted
+learning app that,9,extracted
+new words and,9,extracted
+the paid version,9,extracted
+back to duolingo,9,extracted
+language want to,9,extracted
+new language but,9,extracted
+new words in,9,extracted
+great learning tool,9,extracted
+language is not,9,extracted
+very user friendly,9,extracted
+my language skills,9,extracted
+not available in,9,extracted
+and gives you,9,extracted
+useful for learning,9,extracted
+to delete the,9,extracted
+for english learning,9,extracted
+words and sentences,9,extracted
+platform for learning,9,extracted
+version of the,9,extracted
+but the problem,9,extracted
+delete my account,9,extracted
+my account for,9,extracted
+amount of time,9,extracted
+it makes learning,9,extracted
+to my account,9,extracted
+and make friends,9,extracted
+the lesson and,8,extracted
+language you're learning,8,extracted
+first lesson and,8,extracted
+user friendly and,8,extracted
+the support team,8,extracted
+my language learning,8,extracted
+friends and learning,8,extracted
+time to learn,8,extracted
+very good learning,8,extracted
+to speak language,8,extracted
+really enjoying the,8,extracted
+is great learning,8,extracted
+to follow and,8,extracted
+on duolingo and,8,extracted
+fun and engaging,8,extracted
+am learning japanese,8,extracted
+do one lesson,8,extracted
+the correct answer,8,extracted
+for learning to,8,extracted
+app i'm learning,8,extracted
+different languages and,8,extracted
+simple and easy,8,extracted
+been using the,8,extracted
+have the option,8,extracted
+from the beginning,8,extracted
+cancel the subscription,8,extracted
+learning app for,8,extracted
+for learning other,8,extracted
+the play store,8,extracted
+my first lesson,8,extracted
+please help me,8,extracted
+of learning new,8,extracted
+for the price,8,extracted
+the app seems,8,extracted
+the best platform,8,extracted
+create an account,8,extracted
+nice and helpful,8,extracted
+the best application,8,extracted
+for the subscription,8,extracted
+to learning english,8,extracted
+using the free,8,extracted
+to understand the,8,extracted
+of the features,8,extracted
+babbel is the,8,extracted
+the app keeps,8,extracted
+blocked my account,8,extracted
+new friends and,8,extracted
+in this application,8,extracted
